@@ -14,5 +14,6 @@ python manage.py import_data
 To run the code:
 
 ```bash
+cd restaurant_search/
 python manage.py runserver
 ```
