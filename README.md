@@ -1,5 +1,7 @@
 # A Django based application to search Food
 
+<img src="screenshot.png">
+
 To load data from `restaurant_search/restaurants_small.csv`, run:
 
 ```bash
@@ -8,8 +10,6 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py import_data
 ```
-
-<img src="screenshot.png">
 
 To run the code:
 
